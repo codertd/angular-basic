@@ -2,5 +2,7 @@
 
 A quick sample Angular project.
 
-npm install -g angular/cli 
-clone, then ng serve -o to see visuals.
+npm install -g angular/cli,
+cd into project directory, npm install,
+git clone, 
+then ng serve -o to see visuals.
